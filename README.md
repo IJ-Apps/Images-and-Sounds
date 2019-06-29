@@ -15,6 +15,7 @@ Feel free to copy and paste the code for your own use and subscribe to the [**IJ
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
-Click the image to view the video.
+Click the images to view the videos.
 
-[ <p align = "center"><img src = "https://github.com/IJ-Apps/Toasts-in-Android/blob/master/ShortBit13%20-%20Toasts.PNG" width="73%"> </p>](https://www.youtube.com/watch?v=XickVmsDFX4 "How to Make Toasts in Android")
+[<img align = "left" src="https://github.com/IJ-Apps/EditText/blob/master/ShortBit14%20-%20EditTexts.PNG" width="47%">](https://www.youtube.com/watch?v=tP5Q4XSl3HA "How to use EditTexts")
+[<img align = "left" src="https://github.com/IJ-Apps/EditText/blob/master/SB15.PNG" width="48%">](https://www.youtube.com/watch?v=MoIg0TRbYK8 "Useful EditText Attributes")
