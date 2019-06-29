@@ -21,7 +21,7 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 | [Facial Recognition App with Kairos API](https://github.com/ishaanjav/Kairos_Face_Recognition "Kairos GitHub Repository")| [Face Analyzer Android App](https://github.com/ishaanjav/Face_Analyzer "Face Analyzer Repository")  	| [Basic Demo of Fingerprint Authentication App](https://github.com/ishaanjav/Fingerprint_Authentication "Finger Print Authentication GitHub Repository")    |
 |---	|---	|---  |
-|  [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "30%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos") 	|   	|     |
+|  [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "30%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos Example Gif") 	| [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "30%">](https://github.com/ishaanjav/Face_Analyzer/blob/master/ExampleGIF.gif "Face Analyzer Example Gif")| [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width = "30%">](https://github.com/ishaanjav/Fingerprint_Authentication/blob/master/Animated%20Example.gif "Fingerprint Authentication Example Gif")   |
 
 
 
