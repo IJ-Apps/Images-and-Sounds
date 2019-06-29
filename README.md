@@ -9,9 +9,11 @@ Feel free to copy and paste the code for your own use and subscribe to the [**IJ
    - [*"Adding Sound/Music to Your Android App"*](https://www.youtube.com/watch?v=efY_P8mKUdA)
    - [*"Adding Images to Your Android App with ImageView"*](https://www.youtube.com/watch?v=G6fpeCY9D_0)
    - [*"Changing Images in ImageViews Programmatically"*](https://www.youtube.com/watch?v=zRlCpPPngKM)
-- Subscribe to IJ Apps: [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
+- **Subscribe to IJ Apps:** [**IJ Apps YouTube Channel**](https://www.youtube.com/channel/UCLQUpH7SdkAXAeK6jeeF8zg)
 
-## [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
+-----
+
+# [**My Cool Personal Projects**](https://github.com/ishaanjav): Username - ishaanjav
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
