@@ -17,10 +17,10 @@ Feel free to copy and paste the code for your own use and subscribe to the [**IJ
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
-[<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width="40%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos")
+[<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width="30%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos")
 
 <br>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 -----
 
