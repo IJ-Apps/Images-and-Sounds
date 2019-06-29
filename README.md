@@ -19,7 +19,8 @@ For more cool and complex projects using tools such as the Microsoft Face API, K
 
 [<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width="40%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos")
 
-
+<br>
+<br><br><br><br><br><br>
 -----
 ## Click the images to view the videos
 
