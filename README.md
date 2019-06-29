@@ -17,7 +17,11 @@ Feel free to copy and paste the code for your own use and subscribe to the [**IJ
 
 For more cool and complex projects using tools such as the Microsoft Face API, Kairos Facial Recognition API, and Google Cloud Platform, check out [**my other GitHub account**](https://github.com/ishaanjav) with these cool repositories.
 
-Click the images to view the videos.
+[<img align = "left" src="https://github.com/ishaanjav/Kairos_Face_Recognition/blob/master/Full%20Process.gif" width="40%">](https://github.com/ishaanjav/Kairos_Face_Recognition "Facial Recognition with Kairos")
+
+
+-----
+## Click the images to view the videos
 
 [<img align = "left" src="https://github.com/IJ-Apps/Images-and-Sounds/blob/master/Adding%20Sound%20to%20your%20App.jpg" width="47%">](https://www.youtube.com/watch?v=efY_P8mKUdA "Adding Sound to Your App")
 [<img align = "left" src="https://github.com/IJ-Apps/Images-and-Sounds/blob/master/Adding%20Images%20to%20your%20App.jpg" width="48%">](https://www.youtube.com/watch?v=G6fpeCY9D_0 "Adding Images to Your App")
